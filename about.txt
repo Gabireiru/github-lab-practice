@@ -1,0 +1,4 @@
+Name: Gabriel Bitong
+Field: IT / Web Development
+Skills: HTML, CSS, JavaScript, PHP
+Goal: To become a full-stack developer.
